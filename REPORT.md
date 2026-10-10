@@ -219,3 +219,17 @@ Debugger attached.
 npm error Lifecycle script `dev` failed with error:
 npm error Missing script: "dev"
 ```
+
+### Промпт 30
+
+```
+посмотри файл C:\gh\minipoll\server\tsconfig.json
+Option 'moduleResolution=node10' is deprecated and will stop functioning in TypeScript 7.0. Specify compilerOption '"ignoreDeprecations": "6.0"' to silence this error.
+  Visit https://aka.ms/ts6 for migration information.ts
+```
+
+### Промпт 31
+
+```
+добавь правило Thincking писать по-русски
+```
